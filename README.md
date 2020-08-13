@@ -8,8 +8,6 @@
   A barber scheduling app that allows users to schedule an appointment with his favorite barber and shows to the barber his agenda for the day.
 </h4>
 
-## :rocket: Technologies
-
 <div>
   <img src="./.github/Splash.png" width="180">
   <img src="./.github/Login.png" width="180">
@@ -17,9 +15,11 @@
   <img src="./.github/Concluído.png" width="180">
   <img src="./.github/Lista.png" width="180">
   <img src="./.github/Agendamento.png" width="180">
-  <img src="./.github/Concluido-1.png" width="180">
+  <img src="./.github/Concluído-1.png" width="180">
   <img src="./.github/Perfil.png" width="180">
 </div>
+
+## :rocket: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
