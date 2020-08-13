@@ -7,31 +7,7 @@
 <h4 align="center">
   A barber scheduling app that allows users to schedule an appointment with his favorite barber and shows to the barber his agenda for the day.
 </h4>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/GoBarberMobile">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GoBarberMobile">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hericke47/GoBarberMobile">
-  <a href="https://github.com/hericke47/GoBarberMobile/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GoBarberMobile">
-  </a>
-
-  <a href="https://github.com/hericke47/GoBarberMobile/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/hericke47/GoBarberMobile">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/hericke47/GoBarberMobile">
-</p>
-
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
-<p align="center">
-  <img alt="App Demo" src="https://res.cloudinary.com/dqcqifjms/image/upload/v1594056239/felipejung/gobarbermobile.png">
-</p>
 
 ## :rocket: Technologies
 
