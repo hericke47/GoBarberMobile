@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 /* eslint-disable @typescript-eslint/no-empty-function */
 import React, { useRef } from 'react';
 import {
