@@ -8,7 +8,7 @@ const App = createStackNavigator();
 const AppRoutes: React.FC = () => (
   <App.Navigator
     screenOptions={{
-      // headerShown: false, // tira o header padrão
+      headerShown: false, // tira o header padrão
       cardStyle: { backgroundColor: '#312e38' },
     }}
   >
